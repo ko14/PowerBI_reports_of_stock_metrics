@@ -1,0 +1,1 @@
+This doesn't explain how to get the price data, but rather how to process the data to get price change if you already have prices loaded in AWS S3 files with a corresponding Glue table definition called "prices".
